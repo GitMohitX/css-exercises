@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+
+  .odd-item {
+    background-color: #ca7978; /* Light red/pink */
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    }
+
+    /* Use a hash (#) for IDs */
+#second-item {
+    color: #0000ff; /* Blue */
+    font-size: 36px;
+}
+
+#third-item {
+    font-size: 24px; 
+}
+#fourth-item {
+    font-size: 24px;
+    background-color: #46e669; 
+     font-weight: bold;
+}
